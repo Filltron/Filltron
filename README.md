@@ -1,4 +1,5 @@
-### 기말고사 과제 제출, 게임 코드랑 영상, 사진을 올립니다
+### 기말고사 과제 제출, 게임 코드랑 영상, 사진을 올립니다. 까먹은 내용이 있어서 다시 추가 했습니다.
+
 
 <!--
 **Filltron/Filltron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
